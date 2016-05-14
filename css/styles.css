@@ -1,0 +1,45 @@
+#app {
+    text-align: center;
+    background-color: white;
+    padding: 10px;
+    max-width: 500px;
+    max-height: 500px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 0px;
+}
+
+#lapsContainer {
+    max-height: 250px;
+    height: 250px;
+    overflow: auto;
+    padding: 5px;
+}
+
+.lapTableData {
+    text-align: center;
+}
+
+.lapNo {
+    color: green;
+}
+
+.lapInterval {
+    color: dodgerblue;
+}
+
+.lapTime {
+    color: #373737;
+}
+
+.btn {
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    outline: none;
+}
+
+.btn:focus {
+    outline: none;
+}
